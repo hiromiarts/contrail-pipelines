@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: cfddemo/network
-    repoURL: https://github.com/Juniper/contrail-pipelines
+    repoURL: https://github.com/hiromiarts/contrail-pipelines
     targetRevision: HEAD
   syncPolicy:
     automated:
