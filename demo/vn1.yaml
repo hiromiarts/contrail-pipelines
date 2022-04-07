@@ -2,6 +2,7 @@ apiVersion: core.contrail.juniper.net/v1alpha1
 kind: VirtualNetwork
 metadata:
   name: vn1
+  namespace: contrailtest
   annotations:
     argocd.argoproj.io/sync-wave: '10'
     argocd.argoproj.io/hook: 'Sync'
