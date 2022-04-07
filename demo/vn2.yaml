@@ -14,5 +14,5 @@ spec:
   v4SubnetReference:
     apiVersion: core.contrail.juniper.net/v1alpha1
     kind: Subnet
-    namespace: default
+    namespace: contrailtest
     name: subnet2
