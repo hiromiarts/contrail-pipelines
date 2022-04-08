@@ -7,7 +7,7 @@ spec:
   ingress:
   - ports:
     - port: 80
-    - port: 3300
+    - port: 3305
   egress:
   - {}
   podSelector:
